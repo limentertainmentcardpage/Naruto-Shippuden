@@ -34,6 +34,7 @@ header {
 header nav {
   width: 95%;
   height: 7.5%;
+  background-color:#5a4ebd;
   /*border: 1px solid #fff;*/
   margin: auto;
   display: flex;
